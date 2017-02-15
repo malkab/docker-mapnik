@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Juan Pedro Perez "jp.alcantara@geographica.gs"
+MAINTAINER Juan Pedro Perez "jpperezalcantara@us.es"
 
 
 # Variables
